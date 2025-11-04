@@ -3,6 +3,6 @@ This project is an original sound-based prototype created in TunePad. It produce
 
 How to Run:
 Open the .tunepad file in TunePad
-Ensure all included tracks (drums, cymbals, brass frog, bass, eerie synth) are assigned correctly in “Tracks” mode.
+Ensure all included tracks (drums, cymbals, soft synth, bass, eerie synth) are assigned correctly in “Tracks” mode.
 Press Run All Cells to hear the full composition.
 
